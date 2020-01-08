@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd06416a-01d9-447c-8dd2-28131a920657" name="Default Changelist" comment="" />
+    <list default="true" id="cd06416a-01d9-447c-8dd2-28131a920657" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/add-framework-support-error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/add-framework-support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/gradle-reimport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/import-project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/resolve-exception.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/run-test-result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/run-test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/scala-plugin.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,10 +93,14 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1W3X2b8RKyyJzoa51MtttdPFvI1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -91,6 +108,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -115,7 +133,6 @@
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
       <option name="testClassPath" value="scala.gradle.test.LibrarySuite" />
-      <option name="testName" value="someLibraryMethod is always true" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -179,7 +196,7 @@
       <workItem from="1578385480655" duration="374000" />
       <workItem from="1578385872106" duration="590000" />
       <workItem from="1578461995793" duration="122000" />
-      <workItem from="1578469805059" duration="128000" />
+      <workItem from="1578469805059" duration="955000" />
     </task>
     <servers />
   </component>

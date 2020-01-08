@@ -25,7 +25,7 @@ OS:           Mac OS X 10.14.5 x86_64
 
 Intellij > Perferences > Scala Plugin 설치하자. (재시작 필요)
 
-![Alt text](README/scala-plugin.png?raw=true "install scala plugin")
+![Alt text](README/scala-plugin.gif?raw=true "install scala plugin")
 
 ## 프로젝트 디렉토리 생성 및 초기화
 Intellij의 new project wizard를 통해서도 생성 가능하지만 gradle 명령어로 빠르게 만들 수 있다.
@@ -51,7 +51,7 @@ BUILD SUCCESSFUL in 14s
 ## intellij > Import Project
 생성된 프로젝트를 Intellij에서 import 하여 ide 등 몇몇 설정을 추가한다.
 
-![Alt text](README/import-project.png?raw=true "import project")
+![Alt text](README/import-project.gif?raw=true "import project")
 
 ### build.gradle.kts > repositories 추가
 ```
@@ -66,7 +66,7 @@ repositories {
 ### library load 오류 시
 로컬 환경에 캐싱된 dependency library가 없는 경우 다음과 같은 오류가 발생한다.
 
-![Alt text](README/resolve-exception.png?raw=true "load lib error")
+![Alt text](README/resolve-exception.gif?raw=true "load lib error")
 
 library를 repository에서 불러오도록 gradlew build 해준다.
 ```
@@ -81,19 +81,19 @@ $ ./gradlew build
 
 Project > Right click > Add Framework Support > Configure 에서 gradle lib cache path 로 설정하고
 
-![Alt text](README/add-framework-support.png?raw=true "add framework support menu")
+![Alt text](README/add-framework-support.gif?raw=true "add framework support menu")
 
-![Alt text](README/add-framework-support-error.png?raw=true "add framework support popup")
+![Alt text](README/add-framework-support-error.gif?raw=true "add framework support popup")
 
 Gradle window에서 Reimport 해주면 SDK가 적용되어 `No Scala SDK in module` 알림이 사라진다.
 
-![Alt text](README/gradle-reimport.png?raw=true "reimport project")
+![Alt text](README/gradle-reimport.gif?raw=true "reimport project")
 
 ### 실행 테스트
 잘 동작하는지 테스트 코드를 실행해보자.
 
-![Alt text](README/run-test.png?raw=true "run test code")
-![Alt text](README/run-test-result.png?raw=true "test code execution result")
+![Alt text](README/run-test.gif?raw=true "run test code")
+![Alt text](README/run-test-result.gif?raw=true "test code execution result")
 
 ## 참고
 - https://guides.gradle.org/building-scala-libraries/
