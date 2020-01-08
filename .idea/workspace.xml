@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd06416a-01d9-447c-8dd2-28131a920657" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-gradle-test" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-gradle-test" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-gradle-test" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-gradle-test" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-gradle-test" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-gradle-test" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1W3X2b8RKyyJzoa51MtttdPFvI1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.185" />
+    <property name="project.structure.side.proportion" value="0.35176653" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LibrarySuite.someLibraryMethod is always true" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="scala-gradle-test.test" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="scala.gradle.test.LibrarySuite" />
+      <option name="testName" value="someLibraryMethod is always true" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.LibrarySuite.someLibraryMethod is always true" />
+        <item itemvalue="ScalaTest.LibrarySuite.someLibraryMethod is always true" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../11st-stream" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scalameter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../collector2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../di-medic-dataproc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../di-medic-udf" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../insomnia-stream" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../medic" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../medic-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../medic-dataproc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../medic-udf" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../sphinx" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd06416a-01d9-447c-8dd2-28131a920657" name="Default Changelist" comment="" />
+      <created>1578379045291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578379045291</updated>
+      <workItem from="1578379046650" duration="444000" />
+      <workItem from="1578379823295" duration="1884000" />
+      <workItem from="1578381891008" duration="264000" />
+      <workItem from="1578382164192" duration="25000" />
+      <workItem from="1578382199887" duration="216000" />
+      <workItem from="1578382419908" duration="53000" />
+      <workItem from="1578382479825" duration="1538000" />
+      <workItem from="1578385480655" duration="374000" />
+      <workItem from="1578385872106" duration="590000" />
+      <workItem from="1578461995793" duration="122000" />
+      <workItem from="1578469805059" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2220" y="131" key="#Plugins" timestamp="1578382185695">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state x="2220" y="131" key="#Plugins/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578382185695" />
+    <state x="2220" y="131" key="#Project_Structure" timestamp="1578382396347">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state x="2220" y="131" key="#Project_Structure/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578382396347" />
+    <state x="2364" y="387" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1578381977498">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state x="2364" y="387" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578381977498" />
+    <state x="2240" y="161" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578382039801">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state x="2240" y="161" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578382039801" />
+    <state width="1838" height="357" key="GridCell.Tab.0.bottom" timestamp="1578469949487">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state width="1838" height="357" key="GridCell.Tab.0.bottom/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578469949487" />
+    <state width="1838" height="357" key="GridCell.Tab.0.center" timestamp="1578469949485">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state width="1838" height="357" key="GridCell.Tab.0.center/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578469949485" />
+    <state width="1838" height="357" key="GridCell.Tab.0.left" timestamp="1578469949485">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state width="1838" height="357" key="GridCell.Tab.0.left/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578469949485" />
+    <state width="1838" height="357" key="GridCell.Tab.0.right" timestamp="1578469949486">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state width="1838" height="357" key="GridCell.Tab.0.right/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578469949486" />
+    <state width="1838" height="357" key="GridCell.Tab.1.bottom" timestamp="1578469949488">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state width="1838" height="357" key="GridCell.Tab.1.bottom/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578469949488" />
+    <state width="1838" height="357" key="GridCell.Tab.1.center" timestamp="1578469949487">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state width="1838" height="357" key="GridCell.Tab.1.center/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578469949487" />
+    <state width="1838" height="357" key="GridCell.Tab.1.left" timestamp="1578469949487">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state width="1838" height="357" key="GridCell.Tab.1.left/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578469949487" />
+    <state width="1838" height="357" key="GridCell.Tab.1.right" timestamp="1578469949488">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state width="1838" height="357" key="GridCell.Tab.1.right/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578469949488" />
+    <state x="2129" y="104" width="1342" height="864" key="SettingsEditor" timestamp="1578382153426">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state x="2129" y="104" width="1342" height="864" key="SettingsEditor/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578382153426" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1578462112912">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578462112912" />
+    <state x="2285" y="172" key="search.everywhere.popup" timestamp="1578379551943">
+      <screen x="1680" y="-63" width="1880" height="1057" />
+    </state>
+    <state x="2285" y="172" key="search.everywhere.popup/1680.-63.1880.1057/0.23.1680.1027@1680.-63.1880.1057" timestamp="1578379551943" />
+  </component>
+</project>
